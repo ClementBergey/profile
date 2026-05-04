@@ -188,3 +188,14 @@ hr {
   border-top: 1px double #c0c0c0;
   height: 5px;
 }
+
+.btn-border{
+  background-color: rgba(0, 0, 0, 0);
+  border: 2px solid #eaedf7;
+  padding: 10px 15px
+}
+
+.btn-border:hover{
+  background-color: #eaedf7;
+  color: #000000;
+}
